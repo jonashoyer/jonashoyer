@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xqazer" alt="xqazer" /> </p>
 
-- 🔭 I’m currently working for [Lua](lua.work)
+- 🔭 I’m currently working for [Lua 🥰](lua.work) 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js 🤯**
 
 <!--- - 👨‍💻 All of my projects are available at [xqazer.github.io](xqazer.github.io) -->
 
-- ⚡ Fun fact **I don't drink coffe**
+- ⚡ Fun fact **I don't drink coffe 😮**
 
 <h4>Everyday use</h4>
 <p align="left">
