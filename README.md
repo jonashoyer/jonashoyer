@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xqazer" alt="xqazer" /> </p>
 
-- 🔭 I’m currently working for [Lua 🥰](lua.work) 
+- 🔭 I’m currently working for [Lua 🥰](https://lua.work) 
 
 - 🌱 I’m currently learning **Next.js 🤯**
 
