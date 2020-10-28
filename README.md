@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I don't drink coffe 😮**
 
-<h4>Skins</h4>
+<h4>Skills</h4>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="24" height="24"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="24" height="24"/>
