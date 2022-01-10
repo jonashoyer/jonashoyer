@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/3197b83e-6378-4139-a5bf-c32f17f5324e.svg)](https://wakatime.com/@3197b83e-6378-4139-a5bf-c32f17f5324e)
+[![wakatime](https://wakatime.com/badge/user/3197b83e-6378-4139-a5bf-c32f17f5324e.svg "Since August 16 2020")](https://wakatime.com/@3197b83e-6378-4139-a5bf-c32f17f5324e)
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
