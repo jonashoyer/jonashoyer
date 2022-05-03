@@ -1,4 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/3197b83e-6378-4139-a5bf-c32f17f5324e.svg "Since August 16 2020")](https://wakatime.com/@3197b83e-6378-4139-a5bf-c32f17f5324e)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C566%20hrs%2044%20mins-blue)
 
