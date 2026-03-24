@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C583%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C590%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -27,21 +27,21 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               32 hrs 29 mins      ████████████████████░░░░░   80.25 % 
-Markdown                 4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Bash                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-JSON                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Swift                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TypeScript               33 hrs 45 mins      ████████████████████░░░░░   79.33 % 
+Markdown                 4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Bash                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Swift                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 35 mins      █████████████░░░░░░░░░░░░   50.85 % 
-Cursor                   19 hrs 54 mins      ████████████░░░░░░░░░░░░░   49.15 % 
+Cursor                   22 hrs 48 mins      █████████████░░░░░░░░░░░░   53.60 % 
+VS Code                  19 hrs 44 mins      ████████████░░░░░░░░░░░░░   46.40 % 
 
 💻 Operating System: 
-Mac                      40 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      42 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/03/2026 05:28:40 UTC
+ Last Updated on 24/03/2026 05:22:07 UTC
 <!--END_SECTION:waka-->
 
