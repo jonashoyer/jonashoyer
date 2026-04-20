@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C713%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C714%20hrs%2041%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 628 Contributions in the Year 2026
+> 🏆 629 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -16,10 +16,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-🌆 Daytime                193 commits         ████████░░░░░░░░░░░░░░░░░   31.95 % 
-🌃 Evening                201 commits         ████████░░░░░░░░░░░░░░░░░   33.28 % 
-🌙 Night                  104 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+🌞 Morning                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+🌆 Daytime                194 commits         ████████░░░░░░░░░░░░░░░░░   32.07 % 
+🌃 Evening                201 commits         ████████░░░░░░░░░░░░░░░░░   33.22 % 
+🌙 Night                  104 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
 ```
 
 
@@ -27,22 +27,22 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 hrs 11 mins      ████████████████████░░░░░   78.64 % 
-Other                    5 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-JSON                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript               23 hrs 34 mins      ███████████████████░░░░░░   74.76 % 
+Other                    5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 49 mins      █████████████████░░░░░░░░   69.25 % 
-Cursor                   10 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-Unknown Editor           33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+VS Code                  19 hrs 28 mins      ███████████████░░░░░░░░░░   61.76 % 
+Cursor                   11 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   36.46 % 
+Unknown Editor           33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Mac                      35 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/04/2026 05:57:40 UTC
+ Last Updated on 20/04/2026 06:13:09 UTC
 <!--END_SECTION:waka-->
 
