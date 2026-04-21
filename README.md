@@ -27,22 +27,22 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               23 hrs 34 mins      ███████████████████░░░░░░   74.76 % 
-Other                    5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+TypeScript               15 hrs 43 mins      ██████████████████░░░░░░░   72.05 % 
+Other                    3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 28 mins      ███████████████░░░░░░░░░░   61.76 % 
-Cursor                   11 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   36.46 % 
-Unknown Editor           33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Cursor                   11 hrs 29 mins      █████████████░░░░░░░░░░░░   52.66 % 
+VS Code                  9 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.77 % 
+Unknown Editor           33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Mac                      31 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 06:13:09 UTC
+ Last Updated on 21/04/2026 06:01:24 UTC
 <!--END_SECTION:waka-->
 
